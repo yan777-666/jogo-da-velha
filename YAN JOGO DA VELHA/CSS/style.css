@@ -1,0 +1,41 @@
+body {
+    background-color: #AAA;
+    text-align: center;
+    font-family: Comic Sans;
+    font-style:italic;
+    font-size: 1.3em;
+     background-image: url("./galao-da-massa.jpg");
+    }
+    h1{
+     position: absolute;
+    color:#3c06ef;
+    left: 690px;
+    }
+    h2{
+    color: #d70a47;
+    }
+    input {
+    background-color:#a3c3f5;
+    font-size: 6vw;
+    width: 10vw;
+    height:10vw;
+    margin: 0;
+    color: #a3c3f5;
+     border-radius: 25px;
+    }
+    #jogador {
+    display: inline;
+    }
+    #reiniciar {
+    position: absolute;
+    margin-top: 2%;
+    width: 12vw;
+    height:6vw;
+    font-size: 1em;
+    color: black;
+     border-radius: 25px;
+    font-family: Comic Sans;
+    font-style:italic;
+    left: 490px;
+    }
+    
